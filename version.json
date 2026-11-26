@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0",
-  "versionCode": 4,
-  "notes": "چاککردنی خوێندنەوەی سەعد الغامدی و تەفسیری مامۆستا هەندرێن لە مۆبایلدا بۆ هەموو ١١٤ سوورەتەکە",
+  "version": "2.3.0",
+  "versionCode": 5,
+  "notes": "هاوتاکردنی دەنگی سەعد الغامدی و تەفسیری مامۆستا هەندرێن بە تۆن و وەستانی دەنگی ڕاستەقینە",
   "apkUrl": "https://github.com/farhadhosaen-hub/quran-piruz-app/releases/latest/download/quran-piruz.apk"
 }
